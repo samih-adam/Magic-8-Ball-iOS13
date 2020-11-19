@@ -41,8 +41,9 @@
                         <color key="backgroundColor" red="0.18823529411764706" green="0.43683028219849585" blue="0.792156862745098" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <connections>
-                        <outlet property="askButtonPressed" destination="yov-Ze-8qG" id="aq1-If-jpN"/>
-                        <outlet property="imageView" destination="FCX-Fy-coc" id="TSU-JU-wVV"/>
+                        <outlet property="askButtonPressed" destination="yov-Ze-8qG" id="rap-3J-OIC"/>
+                        <outlet property="askbuttonpressed" destination="yov-Ze-8qG" id="YJF-pI-YUF"/>
+                        <outlet property="imageView" destination="FCX-Fy-coc" id="qsR-Oq-k3T"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
